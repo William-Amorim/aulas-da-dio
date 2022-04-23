@@ -1,6 +1,6 @@
 # aulas-da-dio
-Aulas introdutórias ao git e github na Dio
-Aqui teremos os arquivos, links e tarefas dos cursos da DIO.
+Aulas introdutórias ao git e github, html, css,javascript, entre outros, realizados na Dio.
+Aqui teremos os arquivos, links e tarefas dos projetos da DIO.
 
 
 
